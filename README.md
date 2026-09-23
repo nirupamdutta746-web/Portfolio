@@ -37,20 +37,20 @@ Make sure you have [Node.js](https://nodejs.org/) (v16+) and `npm` installed on 
    ```bash
    git clone [https://github.com/nirupamdutta746-web/Portfolio.git](https://github.com/nirupamdutta746-web/Portfolio.git)
    ```
-  1. Navigate into the project directory:
+2. Navigate into the project directory:
    ```bash
    cd Portfolio
    ```
-  2. Install dependencies:
+3. Install dependencies:
    ```bash
    npm install
    ```
-  3. Start the local development server:
+4. Start the local development server:
    ```bash
    npm start
    # or if using Vite: npm run dev
    ```
-  4. View in browser:
+5. View in browser:
 Open http://localhost:3000 (or the local URL printed in your terminal).
 
 **📂 Project Structure**
