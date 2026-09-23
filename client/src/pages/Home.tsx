@@ -387,7 +387,7 @@ export default function Home() {
 
       <header className="mobile-header">
         <a href="#top" className="logo-lockup" aria-label="dev null, back to top">
-          <img src="/manus-storage/broken-node-logo_3db36ce4.png" alt="" />
+          <img src="/9621.jpg" alt="" />
           <span>Nirupam Dutta</span>
         </a>
         <button className="menu-button" type="button" onClick={() => setMenuOpen((open) => !open)} aria-expanded={menuOpen} aria-label="Toggle navigation">
