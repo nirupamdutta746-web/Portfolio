@@ -54,6 +54,7 @@ Make sure you have [Node.js](https://nodejs.org/) (v16+) and `npm` installed on 
 Open http://localhost:3000 (or the local URL printed in your terminal).
 
 **📂 Project Structure**
+```
 Portfolio/
 ├── public/              # Static files (favicon, preview images)
 ├── src/
@@ -64,7 +65,7 @@ Portfolio/
 │   └── main.jsx         # Entry point
 ├── package.json         # Dependencies and scripts
 └── README.md            # Documentation
-
+```
 ## 🧠 Engineering Decisions
 - Modular Architecture: Kept components isolated and reusable so new projects and milestones can be added quickly.
 
@@ -72,5 +73,7 @@ Portfolio/
 
 ## 📬 Connect with Me
 Email: [Email me](nirupamdutta746@gmail.com)
+
 LinkedIn: [Connect on LinkedIn](www.linkedin.com/in/nirupam-dutta-9753993a5)
+
 Instagram:[Instagram Handle](https://www.instagram.com/nirupamdutta746)
