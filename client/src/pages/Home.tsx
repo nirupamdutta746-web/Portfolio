@@ -420,7 +420,7 @@ export default function Home() {
             <p className="hero-lede">I’m a second-year BTech Computer Science student who enjoys turning ideas into working web experiences. I’m learning by building projects, exploring new tools, and improving one thoughtful iteration at a time.</p>
             <div className="hero-actions">
               <a href="#projects" className="signal-button">inspect selected work <ArrowDownRight size={18} /></a>
-              <a href="mailto:hello@devnull.studio" className="text-link">say hello <MoveRight size={17} /></a>
+              <a href="mailto:nirupamdutta746@gmail.com" className="text-link">say hello <MoveRight size={17} /></a>
             </div>
           </motion.div>
           <InteractiveTerminal />
@@ -531,7 +531,7 @@ export default function Home() {
             <div><p className="eyebrow">want to connect or share an opportunity?</p><h2>Transmit a<br /><em>signal.</em></h2></div>
             <div className="contact-actions"><a href="mailto:nirupamdutta746@gmail.com" className="contact-email">nirupamdutta746@gmail.com <ArrowUpRight size={25} /></a><p>I’m always interested in student communities, hackathons, internships, open-source learning, and meaningful conversations about technology.</p><div className="social-links"><a href="https://github.com/nirupamdutta746-web" target="_blank" rel="noreferrer"><Github size={18} /> github</a><a href="https://www.linkedin.com/in/nirupam-dutta-9753993a5/" target="_blank" rel="noreferrer"><Linkedin size={18} /> linkedin</a><a href="mailto:nirupamdutta746@gmail.com"><Mail size={18} /> email</a></div></div>
           </Reveal>
-          <footer className="site-footer"><span>© 2025 dev.null</span><span>built with intent / no noise</span><a href="#top">back to origin ↑</a></footer>
+          <footer className="site-footer"><span>© 2025 Nirupam Dutta</span><span>built with intent / and a cup of coffee</span><a href="#top">back to origin ↑</a></footer>
         </section>
       </div>
     </main>
