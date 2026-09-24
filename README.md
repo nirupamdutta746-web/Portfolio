@@ -2,7 +2,7 @@
 
 A modern, responsive personal portfolio website designed to showcase my projects, technical skills, and engineering journey.
 
-[![Live Demo](https://nirupamdutta746-web.github.io/Portfolio)
+[Live Demo](https://portfolio-livid-nu-39.vercel.app/)
 
 ---
 
