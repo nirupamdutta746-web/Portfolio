@@ -361,7 +361,7 @@ export default function Home() {
       <motion.div className="grain-field" style={{ y: backgroundShift }} aria-hidden="true" />
 
       <aside className="system-rail" aria-label="Section navigation">
-        <a href="#top" className="logo-lockup" aria-label="dev null, back to top">
+        <a href="#top" className="logo-lockup" aria-label="Nirupam Dutta, back to top">
           <img src="9621.jpg" alt="My Picture" />
           <span>Nirupam Dutta</span>
         </a>
